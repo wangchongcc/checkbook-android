@@ -13,7 +13,6 @@
 
 # Files for the ART/Dalvik VM
 *.dex
-
 # Java class files
 *.class
 
@@ -21,6 +20,7 @@
 bin/
 gen/
 out/
+app/build/*
 
 # Gradle files
 .gradle/
