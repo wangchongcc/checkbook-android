@@ -20,7 +20,7 @@
 bin/
 gen/
 out/
-app/build/*
+app/build/
 
 # Gradle files
 .gradle/
